@@ -1,0 +1,322 @@
+Class Multipliers (100 = avg., higher is better)
+
+JOB_NAME_STORY   IDENTITY  HPm  MPm  PAm  MAm  SPDm  M  J  CEV
+----------------- --------- ---  ---  ---  ---  ---   -  -  ----
+01 Squire         Ramza1    125  105  111  102  107   4  3  10%
+02 Squire         Ramza2    125  105  111  102  107   4  3  10%
+03 Squire         Ramza3    125  105  111  102  107   4  3  10%
+04 Squire         Delita1   130  100  120  100  100   4  3   5%
+05 Holy Knight    Delita2   135  100  120  105  110   4  3  10%
+06 Arc Knight     Delita3   150  100  120  110  120   4  3  15%
+07 Squire         Algus     120  100  110  100  100   4  3  15%
+08 Arc Knight     Zalbag    168   80  120  100  100   4  3  10%
+09 Lune Knight    Dycedarg  170  103  105  100  110   4  3  10%
+0A Duke           Larg      100  100  100  100  100   3  3  10%
+0B Duke           Goltana   100  100  100  100  100   3  3  10%
+0C Princess       Ovelia    100  100  100  100  100   4  3  20%
+0D Holy Swordsman Orlandu   160  120  122  100  110   4  3  20%
+0E High Priest    Funeral   100  100  100  100  100   3  3  10%
+0F Dragoner       Reis      140  115  120  110  120   3  3   7%
+10 Holy Priest    Zalmo     160  200   90  150  100   4  3   9%
+11 Dark Knight    Gafgarion 150  100  100   90  120   3  3  15%
+12 Hell Knight    Dead_Malak  0    0    0    0    0   4  3   8%
+13 Bishop         Simon     100  180  100  100  100   3  3  10%
+14 Cleric         Alma?     100  150  100  160  115   4  3  24%
+15 Astrologist    Olan      140  108  100  130  125   3  4  15%
+16 Engineer       Mustadio  100   75   95  100  115   3  4  18%
+17 Dark Knight    Gafgarion 150  100  100   90  120   3  3  15%
+18 Cardinal       Draclau   100  100  100  100  100   3  3  10%
+19 Heaven Knight  Rafa       90  100   80  100  115   3  3  10%
+1A Hell Knight    Malak     100  110  105  100  110   4  3   8%
+1B Arc Knight     Elmdor    180  120  120  100  120   3  5  16%
+1C Delita's Sis   Teta        0    0    0    0    0   0  0   0%
+1D Arc Duke       Barinten  100  100  100  100  100   3  3  10%
+1E Holy Knight    Agrias    140  100  100  100  100   3  3  25%
+1F Temple Knight  Beowulf   122  145  125  105  105   4  3  14%
+20 White Knight   Wiegraf1  140  150  116  100  100   3  3  10%
+21 Arc Witch      Balmafula 100  100  100  100  100   3  3  10%
+22 Engineer       Mustadio  100   75   95  100  115   3  4  18%
+23 Bi-count       Rudvich   100  100  100  100  100   3  3  10%
+24 Divine Knight  Vormav    165  100  124  100  115   4  3  25%
+25 Divine Knight  Rofel     150  100  122  100  115   4  3  21%
+26 Knight Blade   Izlude    155   50  120   50  110   4  4  10%
+27 Sorcerer       Kletian   125  140   80  125  105   3  3  14%
+28 White Knight   Wiegraf2  165  150  120   95  110   3  3  15%
+29 Heaven Knight  Rafa      100  100  100  100  115   3  3  10%
+2A Divine Knight  Meliadoul 125   80  120   90  105   4  3  12%
+2B Engineer       Balk      140  100  100  120  125   4  3  18%
+2C Cleric         ???         0    0    0    0    0   4  3  18%
+2D Assassin       Celia     160  125  120  125  110   4  7  30%
+2E Assassin       Lede      155  125  120  125  115   4  7  28%
+2F Divine Knight  Meliadoul 125   80  120   90  105   4  3  12%
+30 Cleric         Alma       90  100  100  160  105   4  3  18%
+31 Phony Saint    Ajora     100  100  100  100  100   3  3  10%
+32 Soldier        Cloud     125  116  123  120  100   3  3  20%
+33 Arc Knight     Zalbag-Z  170  105  125  105  125   4  3  22%
+34 Holy Knight    Agrias    140  100  100  100  100   3  3  25%
+35 Chemist        ???        75   75   75   80  100   3  3   0%
+36 Priest         ???        80  120   90  110  110   3  3   0%
+37 Wizard         ???        75  120   60  150  100   3  3   0%
+38 Oracle         ???        75  110   50  120  100   3  3   0%
+3C Warlock        Velius     80   86  141  140  132   5  5  18%
+3D Knight         (undead)  130   80  125   80  110   3  3  10%
+3E Angel of Death Zalera     85  100  145  140  133   5  4  24%
+3F Archer         (undead)  110   65  115   80  105   3  3  10%
+40 Regulator      Hashmalum  83   87  141  125  148   5  4  12%
+41 Holy Angel     Altima1    70   90  113  120  118   5  4  11%
+42 Wizard         (undead)  100  120   60  150  105   3  3   5%
+43 Impure King    Queklain   50   90  144  130  130   4  4  12%
+44 Time Mage      (undead)  100  120   50  135  110   3  3   5%
+45 Ghost of Fury  Adramelk   90   95  139  110  150   5  4  19%
+46 Oracle         (undead)   90  110   50  120  110   3  3   5%
+47 Summoner       (undead)   85  125   50  125  100   3  3   5%
+48 Holy Dragon    Reis      130  115  147  110  132   5  3   5%
+49 Arch Angel     Altima2   125  100  120  130  150   8  5  10%
+
+JOB_NAME_GENERIC  IDENTITY  HPm  MPm  PAm  MAm  SPDm  M  J  CEV
+----------------- --------- ---  ---  ---  ---  ---   -  -  ----
+4A Squire         generic   100   75   90   80  100   4  3   5%
+4B Chemist        generic    80   75   75   80  100   3  3   5%
+4C Knight         generic   120   80  120   80  100   3  3  10%
+4D Archer         generic   100   65  110   80  100   3  3  10%
+4E Monk           generic   135   80  129   80  110   3  4  20%
+4F Priest         generic    80  120   90  110  110   3  3   5%
+50 Wizard         generic    75  120   60  150  100   3  3   5%
+51 Time Mage      generic    75  120   50  130  100   3  3   5%
+52 Summoner       generic    70  125   50  125   90   3  3   5%
+53 Thief          generic    90   50  100   60  110   4  4  25%
+54 Mediator       generic    80   70   75   75  100   3  3   5%
+55 Oracle         generic    75  110   50  120  100   3  3   5%
+56 Geomancer      generic   110   95  110  105  100   4  3  10%
+57 Lancer         generic   120   50  120   50  100   3  4  15%
+58 Samurai        generic    75   75  128   90  100   3  3  20%
+59 Ninja          generic    70   50  120   75  120   4  4  30%
+5A Calculator     generic    65   80   50   70   50   3  3   5%
+5B Bard           generic    55   50   30  115  100   3  3   5%
+5C Dancer         generic    60   50  110   95  100   3  3   5%
+5D Mime           generic   140   50  120  115  120   4  4   5%
+92 Dark Knight    generic    80   90  140   80  100   3  3   0%
+93 Onion Knight(1) generic   50   50   50   50  100   3  3   5%
+94 Onion Knight(8) generic  150  140  130  120  120   3  3  30%
+
+MONSTER_CLASS     TYPE      HPm  MPm  PAm  MAm  SPDm  M  J  CEV
+----------------- --------- ---  ---  ---  ---  ---   -  -  ----
+5E Chocobo        Chocobo   108  100   97   94  119   6  5  15%
+5F Black Chocobo  Chocobo    80  150  150  105   98   6  5  25%
+60 Red Chocobo    Chocobo    91   90  130   99  136   6  5  10%
+61 Goblin         Goblin    117   40   98   85  105   3  3  18%
+62 Black Goblin   Goblin     86   35  103   87  114   3  3  19%
+63 Gobbledeguck   Goblin     98   75  115   92  128   3  3  20%
+64 Bomb           Bomb       85   20  100   93  104   3  3  10%
+65 Grenade        Bomb       87   30   85   94  115   3  3  11%
+66 Explosive      Bomb      124   40  116   96  100   3  3  12%
+67 Red Panther    Panther   116   50   98   91  116   4  4  23%
+68 Cuar           Panther    91   60  116  105  129   4  4  26%
+69 Vampire        Panther    99   70  132   85  134   4  4  24%
+6A Pisco Demon    Squid     108  120   90   96  111   3  3  8%
+6B Squidlarkin    Squid     115  115  101   96  101   3  3  9%
+6C Mindflare      Squid      92  160  127   92  112   3  3  10%
+6D Skeleton       Skeleton  115   50  108   85  120   3  4  11%
+6E Bone Snatch    Skeleton   90   40  123   87  106   3  4  12%
+6F Living Bone    Skeleton  101   30  125   88  102   3  4  13%
+70 Ghoul          Ghost      83  124   90  105  103   4  4  26%
+71 Gust           Ghost      82   96   93  106  110   4  4  27%
+72 Revenant       Ghost      93   64   97  110  121   5  4  28%
+73 Flotiball      Ahriman    80   80   90   89  104   5  5  12%
+74 Ahriman        Ahriman    75   95  140   95   95   5  5  13%
+75 Plague         Ahriman    77  140  126  120  108   5  5  11%
+76 Juravis        Cockatrice 90   40  105   85  113   6  6  30%
+77 Steel Hawk     Cockatrice 85   60  108   90  131   6  6  28%
+78 Cockatoris     Cockatrice 101  10  152  100  135   6  6  33%
+79 Uribo          Boar       69    1   70  110  140   3  3  42%
+7A Porky          Boar       83    1   80  110  139   3  3  36%
+7B Wildbow        Boar       77    1  160  110  138   3  3  39%
+7C Woodman        Dryad     150  160  102  100   99   3  3  0%
+7D Trent          Dryad     130  180   89   95   96   3  3  0%
+7E Taiju          Dryad     175  150   97   99   94   3  3  0%
+7F Bull Demon     Minotaur  135    5  120  100  107   3  3  11%
+80 Minitaurus     Minotaur  160    8  152  100  108   4  3  15%
+81 Sacred         Minotaur  151   10  173  100  122   3  3  12%
+82 Morbol         Marlboro  175   15  105   99   97   3  3  0%
+83 Ochu           Marlboro  145   15  110  110   95   3  3  0%
+84 Great Morbol   Marlboro  181   10   98   95   93   3  3  0%
+85 Behemoth       Behemoth  140  120  134  105  117   4  3  13%
+86 King Behemoth  Behemoth  150  140  149  100  123   4  3  13%
+87 Dark Behemoth  Behemoth  161  160  200   95  125   4  3  18%
+88 Dragon         Dragon    133   75  136  100  118   5  3  5%
+89 Blue Dragon    Dragon    135  110  130  105  124   5  3  9%
+8A Red Dragon     Dragon    157  115  147  100  132   5  3  8%
+8B Hyudra         Hydra      80   50  133  100  126   4  4  0%
+8C Hydra          Hydra     100  160  151  100  133   4  4  0%
+8D Tiamat         Hydra     112   90  175  120  137   4  4  0%
+
+HUMANOID_CLASS    TYPE      HPm  MPm  PAm  MAm  SPDm  M  J  CEV
+----------------- --------- ---  ---  ---  ---  ---   -  -  ----
+90 Byblos         Apanda    130  110  100  100  104   3  6  33%
+91 Steel Giant    Worker_8  115    0  140    0  105   3  3   0%
+96 Apanda         Apanda    140  120  100  100  105   4  3  10%
+97 Serpentarius   Elidibs   100  150   50  125   90   4  3   3%
+99 Archaic Demon  Demon     140  200  130  145  110   4  3   5%
+9A Ultima Demon   Demon     155  180  135  128  105   5  2  10%
+
+########
+Job Growth Divisors (C-values, lower is better)
+
+JOB_NAME_STORY    IDENTITY   HPc  MPc  PAc  MAc  SPDc
+----------------- ---------- ---  ---  ---  ---  ---
+01 Squire         Ramza1      11   11   50   48   95
+02 Squire         Ramza2      11   11   50   48   95
+03 Squire         Ramza3      11   11   50   48   95
+04 Squire         Delita1     10   11   50   50  100
+05 Holy Knight    Delita2     10   11   50   50  100
+06 Arc Knight     Delita3     10   11   50   50  100
+07 Squire         Algus       10   11   50   50  100
+08 Arc Knight     Zalbag      10   11   40   50  100
+09 Lune Knight    Dycedarg    10    9   48   42   95
+0A Duke           Larg        11   11   50   50  100
+0B Duke           Goltana     11   11   50   50  100
+0C Princess       Ovelia      11   11   50   50  100
+0D Holy Swordsman Orlandu     10   11   42   42  100
+0E High Priest    Funeral     11   11   50   50  100
+0F Dragoner       Reis         5   10   39   38   95
+10 Holy Priest    Zalmo       10   11   50   49  120
+11 Dark Knight    Gafgarion   11   11   50   50  100
+12 Hell Knight    Dead_Malak   0    0    0    0    0
+13 Bishop         Simon       15   11   50   50  100
+14 Cleric         Alma?       11   11   50   50  100
+15 Astrologist    Olan        10   11   50   55   95
+16 Engineer       Mustadio    11   13   50   50  100
+17 Dark Knight    Gafgarion   11   11   50   50  100
+18 Cardinal       Draclau     11   11   50   50  100
+19 Heaven Knight  Rafa        11   11   50   50  100
+1A Hell Knight    Malak       10   11   50   50  100
+1B Arc Knight     Elmdor       9   10   40   42  100
+1C Delita's Sis   Teta         0    0    0    0    0
+1D Arc Duke       Barinten    11   11   50   50  100
+1E Holy Knight    Agrias      10   11   50   50  100
+1F Temple Knight  Beowulf     10   11   48   45  100
+20 White Knight   Wiegraf1    11   11   50   50  100
+21 Arc Witch      Balmafula   11   11   50   50  100
+22 Engineer       Mustadio    11   13   50   50  100
+23 Bi-count       Rudvich     11   11   50   50  100
+24 Divine Knight  Vormav       9    9   37   50  100
+25 Divine Knight  Rofel       10   10   38   50  100
+26 Knight Blade   Izlude      10   11   48   50  100
+27 Sorcerer       Kletian     10    8   55   49  100
+28 White Knight   Wiegraf2    10   11   50   50  100
+29 Heaven Knight  Rafa        11   11   50   50  100
+2A Divine Knight  Meliadoul   10   15   39   50  100
+2B Engineer       Balk         8   11   50   46  100
+2C Cleric         ???          0    0    0    0    0
+2D Assassin       Celia        9    8   50   45  105
+2E Assassin       Lede         9    8   50   45  110
+2F Divine Knight  Meliadoul   10   15   39   50  100
+30 Cleric         Alma        11   11   50   50  100
+31 Phony Saint    Ajora       11   11   50   50  100
+32 Soldier        Cloud       11   10   42   46  100
+33 Arc Knight     Zalbag-Z     8   10   38   48   97
+34 Holy Knight    Agrias      10   11   50   50  100
+35 Chemist        ???         12   16   75   50  100
+36 Priest         ???         10   10   50   50  100
+37 Wizard         ???         12    9   60   50  100
+38 Oracle         ???         12   10   60   50  100
+3C Warlock        Velius      12   10   38   46   95
+3D Knight         (undead)     9   15   40   50  100
+3E Angel of Death Zalera      12   10   38   46   90
+3F Archer         (undead)    10   16   45   50  100
+40 Regulator      Hashmalum   12   10   38   46  100
+41 Holy Angel     Altima1     12   10   40   46  100
+42 Wizard         (undead)    11    9   60   50  100
+43 Impure King    Queklain    12   10   42   46  100
+44 Time Mage      (undead)    11   10   65   48  100
+45 Ghost of Fury  Adramelk    12   10   43   47  100
+46 Oracle         (undead)    11   10   60   45  100
+47 Summoner       (undead)    12    8   70   40  100
+48 Holy Dragon    Reis         6   30   39    6   90
+49 Arch Angel     Altima2     10   15   38   48   95
+
+JOB_NAME_GENERIC  IDENTITY   HPP  MPP  PAP  MAP  SPDP
+----------------- ---------- ---  ---  ---  ---  ---
+4A Squire         generic     11   15   60   50  100
+4B Chemist        generic     12   16   75   50  100
+4C Knight         generic     10   15   40   50  100
+4D Archer         generic     11   16   45   50  100
+4E Monk           generic      9   13   48   50  100
+4F Priest         generic     10   10   50   50  100
+50 Wizard         generic     12    9   60   50  100
+51 Time Mage      generic     12   10   65   50  100
+52 Summoner       generic     13    8   70   50  100
+53 Thief          generic     11   16   50   50   90
+54 Mediator       generic     11   18   55   50  100
+55 Oracle         generic     12   10   60   50  100
+56 Geomancer      generic     10   11   45   50  100
+57 Lancer         generic     10   15   40   50  100
+58 Samurai        generic     12   14   45   50  100
+59 Ninja          generic     12   13   43   50   80
+5A Calculator     generic     14   10   70   50  100
+5B Bard           generic     20   20   80   50  100
+5C Dancer         generic     20   20   50   50  100
+5D Mime           generic      6   30   35   40  100
+92 Dark Knight    generic     12   20   40   50  100
+93 Onion Knight(1) generic    13   13   80   50  100
+94 Onion Knight(8) generic     6    8   35   40   80
+
+MONSTER_CLASS     TYPE       HPP  MPP  PAP  MAP  SPDP
+----------------  -------    ---  ---  ---  ---  ---
+5E Chocobo        Chocobo      8   30   34    7   75
+5F Black Chocobo  Chocobo      7   30   39    7   85
+60 Red Chocobo    Chocobo      4   30   39    7   85
+61 Goblin         Goblin       7   30   39    7   85
+62 Black Goblin   Goblin       6   30   39    7   85
+63 Gobbledeguck   Goblin       6   30   39    7   85
+64 Bomb           Bomb         7   30   39    7   90
+65 Grenade        Bomb         7   30   39    7   90
+66 Explosive      Bomb         7   30   39    7   90
+67 Red Panther    Panther      6   30   39    7   85
+68 Cuar           Panther      6   30   39    7   85
+69 Vampire        Panther      6   30   39    7   85
+6A Pisco Demon    Squid        7   30   39    7   85
+6B Squidlarkin    Squid        7   30   39    7   85
+6C Mindflare      Squid        7   30   39    7   85
+6D Skeleton       Skeleton     5   30   39    7   85
+6E Bone Snatch    Skeleton     5   30   39    7   85
+6F Living Bone    Skeleton     5   30   39    7   85
+70 Ghoul          Ghost        7   30   39    7   85
+71 Gust           Ghost        7   30   39    7   85
+72 Revenant       Ghost        7   30   39    7   85
+73 Flotiball      Ahriman      6   30   40    7   85
+74 Ahriman        Ahriman      6   30   40    7   85
+75 Plague         Ahriman      6   30   40    7   85
+76 Juravis        Cockatrice   7   30   39    7   85
+77 Steel Hawk     Cockatrice   7   30   39    7   85
+78 Cockatoris     Cockatrice   7   30   39    7   85
+79 Uribo          Boar         9   30   39    7   85
+7A Porky          Boar         9   30   39    7   85
+7B Wildbow        Boar         9   30   39    7   85
+7C Woodman        Dryad        7   30   39    7   90
+7D Trent          Dryad        7   30   39    7   90
+7E Taiju          Dryad        7   30   39    7   90
+7F Bull Demon     Minotaur     6   30   39    7   85
+80 Minitaurus     Minotaur     6   30   39    7   85
+81 Sacred         Minotaur     6   30   39    7   85
+82 Morbol         Marlboro     8   30   38   30   90
+83 Ochu           Marlboro     8   30   39   27   90
+84 Great Morbol   Marlboro     8   30   39   24   88
+85 Behemoth       Behemoth     5   30   36    7   85
+86 King Behemoth  Behemoth     5   30   35    7   85
+87 Dark Behemoth  Behemoth     5   30   34    6   85
+88 Dragon         Dragon       6   30   39    7   85
+89 Blue Dragon    Dragon       6   30   39    7   85
+8A Red Dragon     Dragon       6   30   39    6   85
+8B Hyudra         Hydra        3   30   39   34   85
+8C Hydra          Hydra        3   30   39   31   85
+8D Tiamat         Hydra        3   30   35   29   85
+
+HUMANOID_CLASS    TYPE       HPP  MPP  PAP  MAP  SPDP
+----------------  -------    ---  ---  ---  ---  ---
+90 Byblos         Apanda       6    7   40   35   75
+91 Steel Giant    Worker_8     4  100   30  100   80
+96 Apanda         Apanda       6    7   36   35   98
+97 Serpentarius   Elidibs     10    8   70   50  100
+99 Archaic Demon  Demon        8    9   39   45  100
+9A Ultima Demon   Demon        9    8   39   43  100
