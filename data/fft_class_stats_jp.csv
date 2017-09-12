@@ -1,4 +1,4 @@
-Job_ID,Job,Identity,Gender,Level,Role,Association,HPm,MPm,PAm,MAm,SPm,M,J,CEV,HPc,MPc,PAc,MAc,SPc
+Job_ID,Job,Identity,Gender,Level,Role,Association,HPm,MPm,PAm,MAm,SPm,Move,Jump,CEV,HPc,MPc,PAc,MAc,SPc
 1,Squire,Ramza1,Male,1,Story,Heroes,125,105,111,102,107,4,3,0.1,11,11,50,48,95
 2,Squire,Ramza2,Male,10,Story,Heroes,125,105,111,102,107,4,3,0.1,11,11,50,48,95
 3,Squire,Ramza3,Male,26,Story,Heroes,125,105,111,102,107,4,3,0.1,11,11,50,48,95
